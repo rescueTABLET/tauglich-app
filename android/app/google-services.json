@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832349545260",
+    "project_id": "agt-tauglich",
+    "storage_bucket": "agt-tauglich.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832349545260:android:3e4c73fe478c2df02ac289",
+        "android_client_info": {
+          "package_name": "com.rescuetablet.tauglich"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHtcONC3jaGqJyv_341vEltutZj0Gam5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
